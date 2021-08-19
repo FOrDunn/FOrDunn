@@ -6,19 +6,19 @@
 <h3>Welcome to my profile!</h3>
 
 <p align="left">
-    👋🏽 I’m a autodidact improving my development skills
+    👋🏽 I’m a autodidact improving my development skills.
 </p>
 <p align="left">
-    🕮  A Polyglot who can speak in portuguese, german, english and spanish
+    🕮  A Polyglot who can speak in portuguese, german, english and spanish.
 </p>
 <p align="left">
-    📚 Design, management and web development are the main branch I want to work on
+    📚 Design, management and web development are the main branch I want to work on.
 </p>
 <p align="left">
-    💻 Always looking to collaborate on projects that will give me experience and deep conversations who can give me any art of knowledge
+    💻 Always looking to collaborate on projects that will give me experience and deep conversations who can give me any art of knowledge.
 </p>
 <p align="left">
-    🙋🏻‍♂️ One of the head admins from the ballerini community (one of the biggest tech communities in Brazil)
+    🙋🏻‍♂️ One of the head admins from the ballerini community (one of the biggest tech communities in Brazil).
 </p>
 <br/>
 <div align="center"> 

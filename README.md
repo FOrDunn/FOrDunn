@@ -18,7 +18,7 @@
     💻 Always looking to collaborate on projects that will give me experience and deep conversations who can give me any art of knowledge.
 </p>
 <p align="left">
-    🙋🏻‍♂️ One of the head admins from the ballerini community (one of the biggest tech communities in Brazil).
+    🙋🏻‍♂️ Head admin from the ballerini community (one of the biggest tech communities in Brazil).
 </p>
 <br/>
 <div align="center"> 

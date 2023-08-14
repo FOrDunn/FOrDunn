@@ -17,9 +17,6 @@
 <p align="left">
     💻 Always looking to collaborate on projects that will give me experience and deep conversations who can give me any art of knowledge.
 </p>
-<p align="left">
-    🙋🏻‍♂️ Head admin from the ballerini community (one of the biggest tech communities in Brazil).
-</p>
 <br/>
 <div align="center"> 
   <a href="https://www.instagram.com/juan.blandi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
